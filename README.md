@@ -1,5 +1,19 @@
 # hypersonic_air_to_air and demo solve small linear system with numpy
 
+Is this correct? I'm not sure but it's homework time finally! Upgrading the PL-15’s propulsion system offers a pathway to maintain a decisive advantage in air combat, especially as countermeasures and opposing missile systems evolve.
+
+# loyal wingmen who fly ahead of Pete?
+
+Among the options, **air-breathing propulsion** (either air-augmented rockets or full ramjet sustainers) stands out for its ability to greatly enhance range and endgame maneuverability – as evidenced by the Meteor missile’s performance. These technologies would transform the PL-15 from a high-speed interceptor to more of a “miniature cruise missile,” capable of sustained powered flight and intelligent energy management.
+
+# But that seems hallucinatory garabage for at best, if I could even remove a hidden soldiered on Intel or whatever mobile SoC
+
+ On the other hand, **incremental upgrades** like improved dual-pulse motors and better propellants should not be overlooked: they leverage existing designs and manufacturing infrastructure for smaller but meaningful gains in performance. 
+
+ # Are you able to think of upgrades to make manually without the aid of computation?
+
+  In either case, **advanced computational design** is the linchpin enabling these upgrades. By using GPU-accelerated CFD, FEA, and optimization algorithms, engineers can push the design envelope with confidence, identifying the best concepts and refining them before committing to hardware.
+
 ![Screenshot 2025-05-11 093844](https://github.com/user-attachments/assets/a7ea0312-d062-4be6-b311-80ee687e86c1)
 
 
