@@ -18,6 +18,12 @@ Among the options, **air-breathing propulsion** (either air-augmented rockets or
 
 ![Screenshot 2025-05-11 094938](https://github.com/user-attachments/assets/4d3d36e4-97dd-4da4-93ba-4abf99909f73)
 
+# when you manually search it's got temperature I assume they set it to a lower value with gemini deep research then write a nice report!
+
+I'm expecting some nice hallucinations; I'm curious if there's 1 usably direct or cognitively direct..
+
+![Screenshot 2025-05-11 095215](https://github.com/user-attachments/assets/c434e606-e3c3-4e14-bd38-d1cce2dd3286)
+
 
 ![Screenshot 2025-05-11 093844](https://github.com/user-attachments/assets/a7ea0312-d062-4be6-b311-80ee687e86c1)
 
