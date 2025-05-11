@@ -9,3 +9,7 @@ pip install cupy==13.4.0
 # build from source
 
 pip install -f https://pip.cupy.dev/
+
+# oh I'd love one all these years after having some Intel SoC installed on the other side of my motherboard, when I could only use (if I could test, I may be able to show, but this is no environment to RE in
+
+![Screenshot 2025-05-11 090628](https://github.com/user-attachments/assets/650b70ff-8b55-42e2-9234-d4dd52db1b79)
