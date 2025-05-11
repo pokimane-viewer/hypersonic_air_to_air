@@ -14,6 +14,11 @@ Among the options, **air-breathing propulsion** (either air-augmented rockets or
 
   In either case, **advanced computational design** is the linchpin enabling these upgrades. By using GPU-accelerated CFD, FEA, and optimization algorithms, engineers can push the design envelope with confidence, identifying the best concepts and refining them before committing to hardware.
 
+# I'll get results somehow but it adds a lot of non-casually masked attention to well a solve me plz so it can work well, and required here
+
+![Screenshot 2025-05-11 094938](https://github.com/user-attachments/assets/4d3d36e4-97dd-4da4-93ba-4abf99909f73)
+
+
 ![Screenshot 2025-05-11 093844](https://github.com/user-attachments/assets/a7ea0312-d062-4be6-b311-80ee687e86c1)
 
 
