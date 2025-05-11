@@ -34,3 +34,8 @@ pip install -f https://pip.cupy.dev/
 https://en.wikipedia.org/wiki/PL-15
 
 https://en.wikipedia.org/w/index.php?title=PL-15&action=history
+
+# Claude 3.7 Sonnet extended thinking and web; it's not trained too hard, so the weights don't really logically do much; make more specific requests
+
+
+![Screenshot 2025-05-11 092718](https://github.com/user-attachments/assets/94285210-f2a7-4c00-8683-290989f99d95)
