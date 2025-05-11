@@ -1,5 +1,10 @@
 # hypersonic_air_to_air and demo solve small linear system with numpy
 
+First I'd like to check out some maybe hallucinations! Maybe not! However Google Deep Research is incredible for replacing MIT teaching material like you would not expect them to be fully comprehensively replaced for reference material only.
+
+![Screenshot 2025-05-11 095503](https://github.com/user-attachments/assets/6656ca39-36a8-475b-9b12-63e162dc4869)
+
+
 Is this correct? I'm not sure but it's homework time finally! Upgrading the PL-15’s propulsion system offers a pathway to maintain a decisive advantage in air combat, especially as countermeasures and opposing missile systems evolve.
 
 # loyal wingmen who fly ahead of Pete?
