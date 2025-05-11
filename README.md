@@ -1,5 +1,35 @@
 # hypersonic_air_to_air and demo solve small linear system with numpy
 
+First I'd like to check out some maybe hallucinations! Maybe not! However Google Deep Research is incredible for replacing MIT teaching material like you would not expect them to be fully comprehensively replaced for reference material only.
+
+![Screenshot 2025-05-11 095503](https://github.com/user-attachments/assets/6656ca39-36a8-475b-9b12-63e162dc4869)
+
+
+Is this correct? I'm not sure but it's homework time finally! Upgrading the PL-15’s propulsion system offers a pathway to maintain a decisive advantage in air combat, especially as countermeasures and opposing missile systems evolve.
+
+# loyal wingmen who fly ahead of Pete?
+
+Among the options, **air-breathing propulsion** (either air-augmented rockets or full ramjet sustainers) stands out for its ability to greatly enhance range and endgame maneuverability – as evidenced by the Meteor missile’s performance. These technologies would transform the PL-15 from a high-speed interceptor to more of a “miniature cruise missile,” capable of sustained powered flight and intelligent energy management.
+
+# But that seems hallucinatory garabage for at best, if I could even remove a hidden soldiered on Intel or whatever mobile SoC
+
+ On the other hand, **incremental upgrades** like improved dual-pulse motors and better propellants should not be overlooked: they leverage existing designs and manufacturing infrastructure for smaller but meaningful gains in performance. 
+
+ # Are you able to think of upgrades to make manually without the aid of computation?
+
+  In either case, **advanced computational design** is the linchpin enabling these upgrades. By using GPU-accelerated CFD, FEA, and optimization algorithms, engineers can push the design envelope with confidence, identifying the best concepts and refining them before committing to hardware.
+
+# I'll get results somehow but it adds a lot of non-casually masked attention to well a solve me plz so it can work well, and required here
+
+![Screenshot 2025-05-11 094938](https://github.com/user-attachments/assets/4d3d36e4-97dd-4da4-93ba-4abf99909f73)
+
+# when you manually search it's got temperature I assume they set it to a lower value with gemini deep research then write a nice report!
+
+I'm expecting some nice hallucinations; I'm curious if there's 1 usably direct or cognitively direct..
+
+![Screenshot 2025-05-11 095215](https://github.com/user-attachments/assets/c434e606-e3c3-4e14-bd38-d1cce2dd3286)
+
+
 ![Screenshot 2025-05-11 093844](https://github.com/user-attachments/assets/a7ea0312-d062-4be6-b311-80ee687e86c1)
 
 
