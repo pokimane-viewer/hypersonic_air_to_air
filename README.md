@@ -1,9 +1,9 @@
-# hypersonic_air_to_air
+# hypersonic_air_to_air and demo solve small linear system with numpy
 
 
 import numpy as np
 
-# demo: small linear system
+
 A = np.array([[3., 2.],
               [1., 2.]])
 b = np.array([5., 5.])
