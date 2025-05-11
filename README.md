@@ -1,5 +1,7 @@
 # hypersonic_air_to_air and demo solve small linear system with numpy
 
+![Screenshot 2025-05-11 093844](https://github.com/user-attachments/assets/a7ea0312-d062-4be6-b311-80ee687e86c1)
+
 
 import numpy as np
 
