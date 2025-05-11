@@ -11,7 +11,11 @@ x = np.linalg.solve(A, b)
 print(x)  # [1. 2.]
 
 
-# This veru very old and will not calculate real upgrades, is a simple demo of the PL15 weapons system in full. The previous simple computationally aided design source code attempts to optimize rocket flight performance (velocity, distance, delta-V) by systematically iterating over thrust, Isp, and burn time. It calculates a custom delta-V or performance metric and uses a stepwise simulation of flight to account for drag, mass changes, and other factor
+# This veru very old and will not calculate real upgrades, is a simple demo of the PL15 weapons system in full. 
+
+The previous simple computationally aided design source code attempts to optimize rocket flight performance (velocity, distance, delta-V) by systematically iterating over thrust, Isp, and burn time. It calculates a custom delta-V or performance metric and uses a stepwise simulation of flight to account for drag, mass changes, and other factor
+
+# Install cupy 
 
 pip install cupy==13.4.0
 
