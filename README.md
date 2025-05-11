@@ -1,7 +1,6 @@
 # hypersonic_air_to_air
 
-# CAD handles geometry creation/editing; it relies on matrices for transforms and curve/surface math.
-# CAE/FEA (often paired with CAD) solves large sparse linear systems Ax = b for physics simulations.
+
 import numpy as np
 
 # demo: small linear system
